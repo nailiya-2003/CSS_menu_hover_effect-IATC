@@ -24,7 +24,7 @@ a {
     position: relative;
     font-size: 50px;
     font-family: 'Poppins', sans-serif;
-    color: #c2bfbf;
+    color: #b7b7b7;
     letter-spacing: 0.5px;
     padding: 0 20px;
     font-weight: 500;
@@ -40,7 +40,7 @@ a::after {
     transition: 0.5s linear;
 }
 a:hover {
-    color: rgb(252, 252, 252);
+    color: rgb(254, 254, 254);
 }
 a:hover::after {
    width: 100%;
